@@ -14,7 +14,7 @@ Either use \\R with the usual Letter, or use \real with the firest 3-4 letters o
   2. Download the [script ℝℤℂℚ.ahk](https://github.com/PCBaum/ahk_Number_Types/blob/main/%E2%84%9D%E2%84%A4%E2%84%82%E2%84%9A.ahk)
    or create a new script with your prefered Name and copy paste the Key Mapping into it.
   3. Put the script into a folder of your choice. 
-  4. Start the script Greek_Alphabet.ahk 
+  4. Start the script ℝℤℂℚ.ahk 
   
   Optional: 
   
@@ -27,7 +27,7 @@ Either use \\R with the usual Letter, or use \real with the firest 3-4 letters o
 
   1. Download the compiled [ℝℤℂℚ.exe](https://github.com/PCBaum/ahk_Number_Types/blob/main/%E2%84%9D%E2%84%A4%E2%84%82%E2%84%9A.exe) File
   2. Put the script into a folder of your choice.
-  3. Start the script Greek_Alphabet.exe
+  3. Start the script ℝℤℂℚ.exe
   
   Optional:
   
