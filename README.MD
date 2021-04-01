@@ -4,8 +4,10 @@ This AHK script lets you easily access commonly used Symbols for the different N
 
 Either use \\R with the usual Letter, or use \real with the firest 3-4 letters of the name (normally case sensitive, but in the script there are options for both uncapitalized "real", and capitalized "Real")
 
+```
 \\R → ℝ , \real → ℝ, or \Real → ℝ
 
+```
 ## AHK Installation
 
   1. Download [Autohotkey](https://www.autohotkey.com/download/) and install it. 
