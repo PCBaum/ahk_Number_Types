@@ -11,7 +11,7 @@ Either use \\R with the usual Letter, or use \real with the firest 3-4 letters o
 ## AHK Installation
 
   1. Download [Autohotkey](https://www.autohotkey.com/download/) and install it. 
-  2. Download the [script ℝℤℂℚ.ahk](https://github.com/PCBaum/ahk_Number_Types/blob/main/%E2%84%9D%E2%84%A4%E2%84%82%E2%84%9A.ahk)
+  2. Download the script [ℝℤℂℚ.ahk](https://github.com/PCBaum/ahk_Number_Types/blob/main/%E2%84%9D%E2%84%A4%E2%84%82%E2%84%9A.ahk)
    or create a new script with your prefered Name and copy paste the Key Mapping into it.
   3. Put the script into a folder of your choice. 
   4. Start the script ℝℤℂℚ.ahk 
@@ -23,9 +23,9 @@ Either use \\R with the usual Letter, or use \real with the firest 3-4 letters o
   6. Put the executable ("YOUR_SCRIPT_NAME".exe) in your Startup Folder "C:\Users\"USERNAME"\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup" to have the script automatically start on Startup.
   
   
-# Whithout installing AHK on Windows
+## Whithout installing AHK on Windows
 
-  1. Download the compiled [ℝℤℂℚ.exe](https://github.com/PCBaum/ahk_Number_Types/blob/main/%E2%84%9D%E2%84%A4%E2%84%82%E2%84%9A.exe) File
+  1. Download the compiled [ℝℤℂℚ.exe](https://github.com/PCBaum/ahk_Number_Types/raw/main/%E2%84%9D%E2%84%A4%E2%84%82%E2%84%9A.exe) File
   2. Put the script into a folder of your choice.
   3. Start the script ℝℤℂℚ.exe
   
